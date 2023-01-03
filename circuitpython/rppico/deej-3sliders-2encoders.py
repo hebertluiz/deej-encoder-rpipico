@@ -1,7 +1,3 @@
-# SPDX-FileCopyrightText: 2018 Kattni Rembor for Adafruit Industries
-#
-# SPDX-License-Identifier: MIT
-
 import rotaryio
 import board
 import digitalio
